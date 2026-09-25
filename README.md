@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="logo/logo.png" width="128" alt="Moon Glimmer Theme icon">
+  <img src="https://raw.githubusercontent.com/vaxicy/moon-glimmer-theme/main/logo/logo.png" width="128" alt="Moon Glimmer Theme icon">
 </p>
 
 <h1 align="center">Moon Glimmer Theme</h1>

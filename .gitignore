@@ -1,0 +1,13 @@
+# local agent state and working memory
+.codebuddy/
+
+# build output
+dist/
+*.zip
+
+# Chrome unpacked-theme cache
+Cached Theme.pak
+
+# python
+__pycache__/
+*.pyc
